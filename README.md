@@ -1,4 +1,4 @@
-Product Designer at [NapoleonCat](https://napoleoncat.com], and freelance Full–stack Developer.
+Product Designer at [NapoleonCat](https://napoleoncat.com), and freelance Full–stack Developer.
 
 Currently working on [RBLipsk.pl](https://rblipsk.pl).
 
