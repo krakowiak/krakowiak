@@ -1,7 +1,7 @@
 Product Designer at [NapoleonCat](https://napoleoncat.com), and freelance Full–stack Developer.
 
-Currently working on [RBLipsk.pl](https://rblipsk.pl), [hiphopedia](https://hiphopedia.pl) and [Vialink](https://vialink.social).
+Currently working on [RBLipsk.pl](https://rblipsk.pl) and [hiphopedia](https://hiphopedia.pl).
 
 ### Social media
-- [Twitter](https://twitter.com/karol_krakowiak)
-- [Instagram](https://instagram.com/karol)
+- [Twitter](https://twitter.com/iamkrakowiak)
+- [Instagram](https://instagram.com/iamkrakowiak)
