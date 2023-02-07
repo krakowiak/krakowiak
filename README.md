@@ -1,7 +1,7 @@
-Product Designer at [Wirtualna Polska](https://wp.pl) and Full–stack Developer.
+Product Designer at Pilot WP. Full–stack Developer.
 
-Currently working on [RBLipsk.pl](https://rblipsk.pl) and [hiphopedia](https://hiphopedia.pl).
+Currently working on [RBLipsk.pl](https://rblipsk.pl).
 
 ### Social media
-- [Twitter](https://twitter.com/iamkrakowiak)
+- [Mastodon](https://mastodon.social/@krakowiak)
 - [Instagram](https://instagram.com/iamkrakowiak)
