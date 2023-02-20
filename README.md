@@ -1,7 +1,7 @@
-Product Designer at Pilot WP. Full–stack Developer.
+Product Designer & Full–stack Developer
 
-Currently working on [RBLipsk.pl](https://rblipsk.pl).
+## Follow me
 
-### Social media
-- [Mastodon](https://mastodon.social/@krakowiak)
-- [Instagram](https://instagram.com/iamkrakowiak)
+- [social.lol/@krakowiak](https://social.lol/@krakowiak)
+- [instagram.com/iamkrakowiak](https://instagram.com/iamkrakowiak)
+- [letterboxd.com/karol](https://letterboxd.com/karol)
